@@ -1,4 +1,3 @@
-script.js;
 //store patient data
 let patients = [];
 
